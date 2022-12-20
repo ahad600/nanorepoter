@@ -2,5 +2,5 @@
     "server_url":"https://ahad600.pythonanywhere.com/",
     "google_url":"https://accounts.google.com/ServiceLogin?flowName=GlifWebSignIn&flowEntry=ServiceLogin",
     "user":"ahad",
-    "hide_info":0
+    "hide_info":1
 }
